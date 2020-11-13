@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Please enter the bit with weight 1:");
         int digitValue1 = Integer.parseInt(input.nextLine());
         System.out.println("Denary: " + String.valueOf((digitValue8 * 8) + (digitValue4 * 4) + (digitValue2 * 2) + digitValue1));
+        System.out.println("Changes to program");
     }
 }
